@@ -1,38 +1,40 @@
-<h1 align="center">Salut 👋</h1>
+## Salut ! 👋
 
-###
+Je suis **Nryon1**, un développeur passionné qui aime créer des applications web fonctionnelles et esthétiques. Je crois au pouvoir de la technologie pour résoudre les problèmes du monde réel et faciliter nos vies !
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-</div>
+## A propos de moi
 
-###
+J'explore actuellement le développement web et j'affine mes compétences en HTML et CSS. Bien que je n'aie pas d'entreprise ou de localisation spécifique à mentionner, je suis déterminé à apprendre et à progresser dans le domaine de la technologie. Rejoignez-moi dans mon parcours !
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+## Skills & Technologies
 
-###
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,git,github,docker,linkedin,azure&perline=8)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nryon1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Nryon1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## Projects principaux
 
-###
+- [Boulangerie](https://github.com/Nryon1/Boulangerie)
+  - Description: Création du site d'une boulangerie virtuelle pour un entrainement à Flexbox
+  - Stars: 0
+  - Language: HTML
+  - Forks: 0, Open Issues: 0
+
+- [Nryon1](https://github.com/Nryon1/Nryon1)
+  - Description: Personal repository
+  - Stars: 0
+  - Language: N/A
+  - Forks: 0, Open Issues: 0
+
+## Statistiques Github
+
+J'ai **2 dépôts publics**, **1 abonné**, et je suis abonné à 1 utilisateur. 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nryon1&show_icons=true&theme=radical)
+
+## Activités récentes
+
+- Création du dépôt **Boulangerie** le 2 décembre 2025.
+- Envoi de modifications vers le dépôt **Boulangerie** le 2 décembre 2025.
+
+## +
+
+Voici mon linkedin : https://www.linkedin.com/in/n%C3%A9o-segard/
